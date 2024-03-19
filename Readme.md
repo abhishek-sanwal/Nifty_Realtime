@@ -1,6 +1,6 @@
 # Nifty Option Chain Realtime PCR (Put-Call Ratio) Tracker
 
-GitHub Project Description:
+Project Description:
 
 **Overview:**
 PCR Tracker is a Python-based tool for monitoring the Put-Call Ratio (PCR) in the NIFTY option chain. The project actively scrapes data from the NSE website, processes it, and calculates the PCR in real-time. The tool focuses on providing insights into the options market sentiment by analyzing changes in Open Interest (OI) for both Put and Call options.
@@ -15,7 +15,6 @@ PCR Tracker is a Python-based tool for monitoring the Put-Call Ratio (PCR) in th
 
 **Under Development:**
 
-- **Hidden Entries:** Ongoing work to enhance output by suppressing entries with no change (new entries with change = 0).
 - **Options Trading Trends:** Future features to approximate whether there is active Put or Call buying/writing and analyze the overall trend.
 
 **Usage:**
@@ -26,8 +25,3 @@ PCR Tracker is a Python-based tool for monitoring the Put-Call Ratio (PCR) in th
 
 **Note:**
 The project is actively under development, and additional features are being added regularly. Feel free to contribute or provide feedback to help improve and expand the functionality of the PCR Tracker.
-
-**Disclaimer:**
-This tool is for informational purposes only and should not be considered financial advice. Always perform your own research before making any investment decisions.
-
-_Happy tracking!_ 📈✨
